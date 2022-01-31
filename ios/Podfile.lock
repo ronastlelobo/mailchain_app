@@ -361,6 +361,8 @@ PODS:
     - React-perflogger (= 0.67.1)
   - RNCCheckbox (0.5.9):
     - React-Core
+  - RNGestureHandler (2.2.0):
+    - React-Core
   - RNReanimated (2.3.1):
     - DoubleConversion
     - FBLazyVector
@@ -458,6 +460,7 @@ DEPENDENCIES:
   - React-runtimeexecutor (from `../node_modules/react-native/ReactCommon/runtimeexecutor`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
   - "RNCCheckbox (from `../node_modules/@react-native-community/checkbox`)"
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
@@ -548,6 +551,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon"
   RNCCheckbox:
     :path: "../node_modules/@react-native-community/checkbox"
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
   RNReanimated:
     :path: "../node_modules/react-native-reanimated"
   RNScreens:
@@ -605,6 +610,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 2c92a8bddd1a3e72c7513d1e74235c2d9c84875c
   ReactCommon: 2e816fad39f65f2a94a5999d5be463a6b620dcf6
   RNCCheckbox: 6369808337432cdbd5025d62ceced2480b4c51df
+  RNGestureHandler: bf572f552ea324acd5b5464b8d30755b2d8c1de6
   RNReanimated: 1326679461fa5d2399d54c18ca1432ba3e816b9e
   RNScreens: d6da2b9e29cf523832c2542f47bf1287318b1868
   RNVectorIcons: 4143ba35feebab8fdbe6bc43d1e776b393d47ac8

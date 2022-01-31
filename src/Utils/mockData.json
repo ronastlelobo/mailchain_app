@@ -1,0 +1,105 @@
+[
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "10:15 AM",
+    "reply": false,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "important",
+    "header": "Facebook",
+    "dateTime": "11:20 AM",
+    "reply": false,
+    "flag": true,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": [
+      {"name": "mailchain.mov", "type": "video"},
+      {"name": "mailchain.png", "type": "image"}
+    ]
+  },
+  {
+    "type": "starred",
+    "header": "Mailchain",
+    "dateTime": "12:11 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "Welcome to Mailchain family",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": [{"name": "Ron_CV.pdf", "type": "doc"}]
+  },
+  {
+    "type": "normal",
+    "header": "Zomato",
+    "dateTime": "12:20 PM",
+    "reply": false,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Yelp",
+    "dateTime": "8:15 PM",
+    "reply": false,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "8:15 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "8:15 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "8:15 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "8:15 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  },
+  {
+    "type": "normal",
+    "header": "Stripe",
+    "dateTime": "8:15 PM",
+    "reply": true,
+    "flag": false,
+    "subject": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "attachments": []
+  }
+]
